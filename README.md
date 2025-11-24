@@ -44,26 +44,39 @@ There are two key features in this project
 
   First is the College Eligibility Check:
 it verifies eligibility for various colleges based on:
-	1 Class 10 percentage
-	2 Class 12 percentage
-	3 JEE Percentile Score
-	4 Age
 
-	Second one is the Scholarship Eligibility Check:
+1 Class 10 percentage
+	
+2 Class 12 percentage
+	
+3 JEE Percentile Score
+
+4 Age
+
+Second one is the Scholarship Eligibility Check:
 It Checks qualification for various government schemes and scholarships based on:
-	1 Academic performance
-	2 Family Income
-	3 Gender
-	4 Sports Achievements
+
+1 Academic performance
+	
+2 Family Income
+	
+3 Gender
+	
+4 Sports Achievements
 
 * Tools Used
-- PyCharm -- For Python Coding
+  
+  PyCharm -- For Python Coding
 
 * Concepts Applied
-- Dictionaries to store data
-- Conditional statements
-- Loops and iterations
+  
+  1 Dictionaries to store data
+  
+  2 Conditional statements
+  
+  3 Loops and iterations
 
-* Conclusion 
+* Conclusion
+  
 College and Scholarship Eligibility Checker is a very simple Python Project it is made without using external libraries, OOP, APIs.
 
