@@ -1,20 +1,32 @@
 #College and Scholarship Eligibility Checker
 
 Project Title - Colleges and Scholarship Eligibility Checker
+
 Name - Shaurya Gupta
+
 Registration Number - 25BCE11237
+
 Branch - CSE Core
+
 Email - shaurya.25bce11237@vitbhopal.ac.in
+
 Programming Language - Python
 
 
 * Project Structure
+  
 -README.txt # Project documentation
+
 -main.py # Main project file
+
 -project_report.pdf # Detailed project report
+
 -screenshots/ # Program screenshots
+
 -main_menu.png
+
 -college_check.png
+
 -scholarship_check.png
 
 * Project Overview
