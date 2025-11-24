@@ -1,2 +1,57 @@
-# College-and-scholarship-eligibility-checker
-A simple Python project that helps user to check whether they are eligible for va0rious colleges and government scholarships based on their academic scores and personal information. This project helps students find their suitable scholarships that they might not even be aware of, this project helps student prepare for their future ahead. 
+#College and Scholarship Eligibility Checker
+
+Project Title - Colleges and Scholarship Eligibility Checker
+Name - Shaurya Gupta
+Registration Number - 25BCE11237
+Branch - CSE Core
+Email - shaurya.25bce11237@vitbhopal.ac.in
+Programming Language - Python
+
+
+* Project Structure
+-README.txt # Project documentation
+-main.py # Main project file
+-project_report.pdf # Detailed project report
+-screenshots/ # Program screenshots
+-main_menu.png
+-college_check.png
+-scholarship_check.png
+
+* Project Overview
+
+A simple Python project that helps user ( primarily high school students ) to check whether they are eligible for various colleges and government scholarships based on their academic scores and personal information.
+
+* Problem Solving
+
+This project addresses the problem of students struggling to find which colleges and scholarships they qualify for,
+	This project helps students find their suitable scholarships that they might not even be aware of, this project helps save time and helps student prepare for their future ahead.
+
+* Features
+
+There are two key features in this project
+
+  First is the College Eligibility Check:
+it verifies eligibility for various colleges based on:
+- Class 10 percentage
+- Class 12 percentage
+- JEE Percentile Score
+- Age
+
+	Second one is the Scholarship Eligibility Check:
+It Checks qualification for various government schemes and scholarships based on:
+- Academic performance
+- Family Income
+- Gender
+- Sports Achievements
+
+* Tools Used
+- PyCharm -- For Python Coding
+
+* Concepts Applied
+- Dictionaries to store data
+- Conditional statements
+- Loops and iterations
+
+* Conclusion 
+College and Scholarship Eligibility Checker is a very simple Python Project it is made without using external libraries, OOP, APIs.
+
