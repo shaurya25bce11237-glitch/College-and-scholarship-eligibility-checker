@@ -93,6 +93,7 @@ while True:
             count = 1
             for scholarship in eligible_scholarships:
                 print(f"{count}. {scholarship}")
+                count = count + 1
         else:
             #If no scholarships are available print a statement
             print("No scholarships available.")
@@ -102,4 +103,5 @@ while True:
         break
     #For Invalid Inputs
     else:
+
         print("Invalid input!,Please enter 1,2,or3 only")
