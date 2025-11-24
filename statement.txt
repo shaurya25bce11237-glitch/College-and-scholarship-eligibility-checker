@@ -1,0 +1,34 @@
+Problem Statement
+Many students face challenges in identifying suitable colleges and scholarships due to various reasons like
+-	Lack of centralized information source
+-	Time consuming manual process
+-	Missed opportunities due to inadequate information
+
+Project Objective
+To develop an automated software solution that helps students quickly determine their eligibility for various colleges and government scholarships based on their academic performance and personal information.
+
+Target Users
+-High School students   seeking college admissions 
+-Scholarship applicants from various backgrounds 
+-Parents assisting their children in career planning
+
+Features
+
+College Eligibility Features
+
+Age requirement checking
+Academic percentage checking
+Entrance exam score evaluation
+
+Scholarship Eligibility Features
+
+Gender specific scholarship handling
+Sports achievement handling
+Combined criteria evaluation
+
+UI
+
+Simple numbered menu system
+Clear input prompts
+Numbered result display
+Greetings
