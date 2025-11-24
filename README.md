@@ -44,17 +44,17 @@ There are two key features in this project
 
   First is the College Eligibility Check:
 it verifies eligibility for various colleges based on:
-- Class 10 percentage
-- Class 12 percentage
-- JEE Percentile Score
-- Age
+	1 Class 10 percentage
+	2 Class 12 percentage
+	3 JEE Percentile Score
+	4 Age
 
 	Second one is the Scholarship Eligibility Check:
 It Checks qualification for various government schemes and scholarships based on:
-- Academic performance
-- Family Income
-- Gender
-- Sports Achievements
+	1 Academic performance
+	2 Family Income
+	3 Gender
+	4 Sports Achievements
 
 * Tools Used
 - PyCharm -- For Python Coding
