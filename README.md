@@ -59,6 +59,22 @@ It Checks qualification for various government schemes and scholarships based on
   
   3 Loops and iterations
 
+* Steps to install and run the project
+
+1. Install Python from python.org
+3. Open terminal/command prompt
+4. Run: python college_checker.py (or python3 on Mac/Linux)
+5. Enter your name when asked
+6. Choose 1 for colleges, 2 for scholarships
+7. Enter your marks and details
+8. Get eligibility results
+
+* Instruction For Testing
+
+  for testing download Python IDLE/PyCharm/VS Code and run the code
+  give inputs and check for each use case and possible error inducing cases
+  
+
 * Conclusion
   
 College and Scholarship Eligibility Checker is a very simple Python Project it is made without using external libraries, OOP, APIs.
