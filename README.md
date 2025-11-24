@@ -12,23 +12,6 @@ Email - shaurya.25bce11237@vitbhopal.ac.in
 
 Programming Language - Python
 
-
-* Project Structure
-  
--README.txt # Project documentation
-
--main.py # Main project file
-
--project_report.pdf # Detailed project report
-
--screenshots/ # Program screenshots
-
--main_menu.png
-
--college_check.png
-
--scholarship_check.png
-
 * Project Overview
 
 A simple Python project that helps user ( primarily high school students ) to check whether they are eligible for various colleges and government scholarships based on their academic scores and personal information.
